@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VuforiaStuff/Scenes/Test.unity
-    guid: f8e842db91fbd61478e6830b07a5ccab
+    path: Assets/VuforiaStuff/Scenes/02 - MultiTarget.unity
+    guid: 3be6881e9a944bd4b8a5e433c20cf993
   m_configObjects: {}

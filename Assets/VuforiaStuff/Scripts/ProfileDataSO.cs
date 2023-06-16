@@ -31,10 +31,10 @@ public class ProfileDataSO : ScriptableObject
                 return URL;
 
             case URLType.phone:
-                return string.Format("Tel://{0}", URL);
+                return string.Format("tel://{0}", URL);
 
             case URLType.email:
-                return string.Format("mailto:Tel:{0}?subject={1}&body={2}", EmailDirection, EmailSubject, EmailBody);
+                return string.Format("mailto:{0}?subject={1}&body={2}", EmailDirection, EmailSubject, EmailBody);
         }
 
         return "";
