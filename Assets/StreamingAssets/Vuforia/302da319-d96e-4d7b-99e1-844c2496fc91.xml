@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="302da319-d96e-4d7b-99e1-844c2496fc91" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="302da319-d96e-4d7b-99e1-844c2496fc91s_assembly" assemblyId="9a8c0063e2244f2991c3228ade944981">
+<Part name="302da319-d96e-4d7b-99e1-844c2496fc91" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00666148 0.0346347 0.13162" rotation="AD: 0.999999999855455 -0.004979134164225456 0.004692207945180076 93.4" trained="no">
+
+</EntryPoint>
+<EntryPoint name="Evee_Front" translation="-0.000269621 0.0361682 0.0775735" rotation="AD: 0.9999999998043861 0.005294929065869849 -0.00527103184854443 90.2608" trained="no">
+
+</EntryPoint>
+<EntryPoint name="Evee_Right" translation="-0.0202202 0.0340105 0.0990321" rotation="AD: 0.920103834661015 0.8256106524403704 -0.8332207634116184 116.164" trained="no">
+
+</EntryPoint>
+<EntryPoint name="Evee_Left" translation="0.0151591 0.0325342 0.084913" rotation="AD: 0.8758563564225962 -0.9196308350495875 0.9670639292845472 120.031" trained="no">
+
+</EntryPoint>
+<EntryPoint name="Evee_Airview" translation="4.58238e-05 0.0372245 0.091077" rotation="AD: 0.9999999991651785 0.008719758101153493 -0.005556950041185673 114.985" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
