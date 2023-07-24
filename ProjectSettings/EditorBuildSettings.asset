@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VuforiaStuff/Scenes/04 - ObjectTarget.unity
-    guid: 65f5267803e19ea4cb5c60076468a64e
+    path: Assets/VuforiaStuff/Scenes/07 - GroundPlane.unity
+    guid: 56465626f022cc849b46c3976dd8b797
   m_configObjects: {}
